@@ -19,7 +19,7 @@ First download or clone the theme from the [Github repo](https://github.com/tomj
 
 ### 2. Install Jekyll
 
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+If you've never installed or run a Jekyll site locally on your computer, use the following instructions to install Jekyll:
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
